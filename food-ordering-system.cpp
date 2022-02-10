@@ -1,9 +1,3 @@
-/******************************
-Name : Tan Szu Jean
-Id : 1201200641
-Section : TC2V
-Title : Food Ordering System
-*****************************/
 #include<iostream>
 #include<iomanip>
 using namespace std;
